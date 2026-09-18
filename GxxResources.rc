@@ -1,0 +1,5 @@
+MAINICON ICON "Gxx.ico"
+CLIENT RCDATA "tools\original-runtime\Client.exe"
+SKINPREVIEW RCDATA "GxxSkinPreview.bmp"
+DEFAULTCONFIG RCDATA "GxxDefaults.ini"
+CLIENTDATATEMPLATE RCDATA "tools\client-runtime\ClientData.dat"
